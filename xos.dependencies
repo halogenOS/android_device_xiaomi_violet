@@ -1,0 +1,44 @@
+[
+  {
+    "remote": "github",   
+    "repository": "tesla59/hydra_kernel",
+    "target_path": "kernel/xiaomi/sm6150",
+    "branch": "ten"
+  },
+
+  {
+    "remote": "github",
+    "repository": "kalmin06/vendor_violet",
+    "target_path": "vendor/xiaomi/violet",
+    "branch": "ten"
+  },
+
+  {
+    "remote": "github",
+    "repository": "kalmin06/hardware_qcom-caf_sm8150_audio",
+    "target_path": "hardware/qcom-caf/sm8150/audio",
+    "branch": "ten-sm8150"
+  },
+
+  {
+    "remote": "github",
+    "repository": "kalmin06/hardware_qcom-caf_sm8150_media",
+    "target_path": "hardware/qcom-caf/sm8150/media",
+    "branch": "ten-sm8150"
+  },
+
+  {
+    "remote": "github",
+    "repository": "kalmin06/hardware_qcom-caf_sm8150_audio",
+    "target_path": "hardware/qcom-caf/sm8150/media",
+    "branch": "ten-sm8150"
+  },
+
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "lineage-17.1"
+  },
+  
+]
